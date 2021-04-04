@@ -172,6 +172,10 @@
 - [ ] [A curated list of awesome Go frameworks](https://github.com/avelino/awesome-go)
 - [ ] [Go programming language tour](https://tour.golang.org/)
 
+### Javascript
+
+- [ ] [Kat's short guide to Javascript devops ecosystem](https://medium.com/@maybekatz/kat-s-short-guide-to-js-devops-ecosystem-9ffef67fdb8e)
+
 ### Shell
 
 - [ ] [ShellCheck - A shell script static analysis tool](https://github.com/koalaman/shellcheck)
